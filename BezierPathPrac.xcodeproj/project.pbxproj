@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9160D30C293103F700093404 /* RoundedCornerImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9160D30B293103F700093404 /* RoundedCornerImageView.swift */; };
 		91916B7727B0E45F00778E63 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91916B7627B0E45F00778E63 /* AppDelegate.swift */; };
 		91916B7927B0E45F00778E63 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91916B7827B0E45F00778E63 /* SceneDelegate.swift */; };
 		91916B7B27B0E45F00778E63 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91916B7A27B0E45F00778E63 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9160D30B293103F700093404 /* RoundedCornerImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedCornerImageView.swift; sourceTree = "<group>"; };
 		91916B7327B0E45F00778E63 /* BezierPathPrac.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BezierPathPrac.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		91916B7627B0E45F00778E63 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		91916B7827B0E45F00778E63 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				91916B7627B0E45F00778E63 /* AppDelegate.swift */,
 				91916B7827B0E45F00778E63 /* SceneDelegate.swift */,
 				91916B7A27B0E45F00778E63 /* ViewController.swift */,
+				9160D30B293103F700093404 /* RoundedCornerImageView.swift */,
 				91916B7C27B0E45F00778E63 /* Main.storyboard */,
 				91916B7F27B0E46400778E63 /* Assets.xcassets */,
 				91916B8127B0E46400778E63 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				91916B7B27B0E45F00778E63 /* ViewController.swift in Sources */,
 				91916B7727B0E45F00778E63 /* AppDelegate.swift in Sources */,
 				91916B7927B0E45F00778E63 /* SceneDelegate.swift in Sources */,
+				9160D30C293103F700093404 /* RoundedCornerImageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
